@@ -96,5 +96,7 @@ public class ArrayListEX {
         for(String s:strArr){
             System.out.println(s);
         }
+
+
     }
 }
